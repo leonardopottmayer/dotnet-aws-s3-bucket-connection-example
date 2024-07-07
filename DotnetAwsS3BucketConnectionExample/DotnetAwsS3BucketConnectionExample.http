@@ -1,0 +1,6 @@
+@DotnetAwsS3BucketConnectionExample_HostAddress = http://localhost:5016
+
+GET {{DotnetAwsS3BucketConnectionExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
